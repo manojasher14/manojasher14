@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Manoj Asher
-- 👀 I’m interested in ... Python and projects 
-- 🌱 I’m currently learning ... Computer science engineering
+- 👀 I’m interested in ... Python
+- 🌱 I’m currently learning ... Computer science and engineering
 - 💞️ I’m looking to collaborate on ... python projects
-- 📫 How to reach me ... https://www.linkedin.com/in/manoj-asher-0253212b8/
+- 📫 How to reach me ... manojasher@gmail.com
+- https://www.linkedin.com/in/manoj-asher-0253212b8/
 
 
 <!---
